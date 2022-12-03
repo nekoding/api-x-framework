@@ -1,0 +1,15 @@
+{
+    "name": "nekoding/api-x-framework",
+    "description": "Test X Framework Implementation",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nekoding",
+            "email": "me@enggartivandi.com"
+        }
+    ],
+    "require": {
+        "clue/framework-x": "dev-main"
+    }
+}
